@@ -1,0 +1,4 @@
+C:\Users\gisel\OneDrive\Área de Trabalho\ProjetoAcesso\ED2I4-ProjetoAcesso\obj\Debug\net7.0\ED2I4-ProjetoAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisel\OneDrive\Área de Trabalho\ProjetoAcesso\ED2I4-ProjetoAcesso\obj\Debug\net7.0\ED2I4-ProjetoAcesso.AssemblyInfoInputs.cache
+C:\Users\gisel\OneDrive\Área de Trabalho\ProjetoAcesso\ED2I4-ProjetoAcesso\obj\Debug\net7.0\ED2I4-ProjetoAcesso.AssemblyInfo.cs
+C:\Users\gisel\OneDrive\Área de Trabalho\ProjetoAcesso\ED2I4-ProjetoAcesso\obj\Debug\net7.0\ED2I4-ProjetoAcesso.csproj.CoreCompileInputs.cache
